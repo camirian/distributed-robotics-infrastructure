@@ -2,7 +2,7 @@
 
 This repository documents the complete setup and configuration of a professional-grade development environment for advanced robotics and AI applications. The goal is to establish a robust, reproducible, and distributed system consisting of a powerful host development workstation and a physical edge AI device (NVIDIA Jetson).
 
-This setup serves as the foundational environment for all subsequent projects in my AI Robotics Portfolio. For definitions of key terms, please see my central **[AI & Robotics Glossary](https://github.com/camirian/phase-0-robotics-glossary/blob/main/GLOSSARY.md)**.
+This setup serves as the foundational environment for all subsequent projects in my AI Robotics Portfolio. For definitions of key terms, please see my central **[AI & Robotics Glossary](https://github.com/camirian/robotics-ontology/blob/main/GLOSSARY.md)**.
 
 ---
 
@@ -23,13 +23,13 @@ Successfully completing this foundational setup demonstrates core competencies i
 | Component             | Version / Type                   | Purpose                                    |
 | --------------------- | -------------------------------- | ------------------------------------------ |
 | Operating System      | Ubuntu 22.04 LTS                 | Standard for robotics development          |
-| Robotics Middleware   | [ROS 2 Humble](https://github.com/camirian/phase-0-robotics-glossary/blob/main/GLOSSARY.md#ros-ros-2) | Core communication and tooling framework   |
+| Robotics Middleware   | [ROS 2 Humble](https://github.com/camirian/robotics-ontology/blob/main/GLOSSARY.md#ros-ros-2) | Core communication and tooling framework   |
 | GPU Driver            | NVIDIA Proprietary Driver 5xx.xx | Enables GPU acceleration for AI/Sim        |
-| Simulation Platform   | [Isaac Sim](https://github.com/camirian/phase-0-robotics-glossary/blob/main/GLOSSARY.md#isaac-sim) | High-fidelity physics simulation & sensor data |
-| Edge AI SDK           | [JetPack SDK](https://github.com/camirian/phase-0-robotics-glossary/blob/main/GLOSSARY.md#jetpack-sdk) | OS & libraries for the Jetson platform     |
-| Version Control       | [Git](https://github.com/camirian/phase-0-robotics-glossary/blob/main/GLOSSARY.md#git) | Tracking changes and managing project history |
-| Code Hosting          | [GitHub](https://github.com/camirian/phase-0-robotics-glossary/blob/main/GLOSSARY.md#github) / `gh` CLI | Publicly showcasing and managing repositories |
-| Build Tool            | [Colcon](https://github.com/camirian/phase-0-robotics-glossary/blob/main/GLOSSARY.md#colcon) | Building ROS 2 packages and workspaces     |
+| Simulation Platform   | [Isaac Sim](https://github.com/camirian/robotics-ontology/blob/main/GLOSSARY.md#isaac-sim) | High-fidelity physics simulation & sensor data |
+| Edge AI SDK           | [JetPack SDK](https://github.com/camirian/robotics-ontology/blob/main/GLOSSARY.md#jetpack-sdk) | OS & libraries for the Jetson platform     |
+| Version Control       | [Git](https://github.com/camirian/robotics-ontology/blob/main/GLOSSARY.md#git) | Tracking changes and managing project history |
+| Code Hosting          | [GitHub](https://github.com/camirian/robotics-ontology/blob/main/GLOSSARY.md#github) / `gh` CLI | Publicly showcasing and managing repositories |
+| Build Tool            | [Colcon](https://github.com/camirian/robotics-ontology/blob/main/GLOSSARY.md#colcon) | Building ROS 2 packages and workspaces     |
 
 ---
 
