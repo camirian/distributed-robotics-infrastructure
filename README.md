@@ -1,8 +1,8 @@
-# Phase 1: AI Robotics Professional Development Environment
+# Phase 1: Distributed Sim-to-Real Architecture
 
-This repository documents the complete setup and configuration of a professional-grade development environment for advanced robotics and AI applications. The goal is to establish a robust, reproducible, and distributed system consisting of a powerful host development workstation, a cloud-based simulation node, and a physical edge AI device (NVIDIA Jetson). The cloud node acts as the critical link between the host PC and the edge device.
+This repository documents the complete architecture, setup, and configuration of an enterprise-grade Distributed Sim-to-Real pipeline. The goal is to establish a robust, reproducible system consisting of a powerful host development workstation, a GPU-accelerated cloud simulation node (GCP), and a physical edge AI device (NVIDIA Jetson Orin). The cloud node acts as the critical digital twin link between the host PC and the edge device.
 
-This setup serves as the foundational environment for all subsequent projects in my AI Robotics Portfolio. For definitions of key terms, please see my central **[AI & Robotics Glossary](https://github.com/camirian/robotics-ontology/blob/main/GLOSSARY.md)**.
+This architecture serves as the foundational infrastructure for all advanced perception and manipulation projects. For definitions of key terms, please see my central **[AI & Robotics Glossary](https://github.com/camirian/robotics-ontology/blob/main/GLOSSARY.md)**.
 
 ---
 
