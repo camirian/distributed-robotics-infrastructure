@@ -1,6 +1,6 @@
-# Phase 1: Distributed Sim-to-Real Architecture
+# Distributed Robotics Infrastructure
 
-This repository documents the complete architecture, setup, and configuration of an enterprise-grade Distributed Sim-to-Real pipeline. The goal is to establish a robust, reproducible system consisting of a powerful host development workstation, a GPU-accelerated cloud simulation node (GCP), and a physical edge AI device (NVIDIA Jetson Orin). The cloud node acts as the critical digital twin link between the host PC and the edge device.
+Complete architecture, setup, and configuration for an enterprise-grade distributed sim-to-real pipeline: Ubuntu/ROS 2 host PC, GPU-accelerated cloud simulation (GCP), and NVIDIA Jetson Orin edge device.
 
 This architecture serves as the foundational infrastructure for all advanced perception and manipulation projects. For definitions of key terms, please see my central **[AI & Robotics Glossary](https://github.com/camirian/robotics-ontology/blob/main/GLOSSARY.md)**.
 
