@@ -4,6 +4,8 @@ Complete architecture, setup, and configuration for an enterprise-grade distribu
 
 This architecture serves as the foundational infrastructure for all advanced perception and manipulation projects. For definitions of key terms, please see my central **[AI & Robotics Glossary](https://github.com/camirian/robotics-ontology/blob/main/GLOSSARY.md)**.
 
+## Roadmap
+[View the Structural Roadmap](ROADMAP.md)
 
 > ## 📖 The Architecture Archive
 > This README provides the high-level overview. For a rigorous deep dive into the First Principles reasoning, toolchain constraints, execution sequence, and architectural trade-offs, read the **[Engineering Build Log](./BUILD_LOG.md)**.
