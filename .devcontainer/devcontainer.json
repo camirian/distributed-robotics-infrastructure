@@ -1,0 +1,16 @@
+{
+    "name": "Robotics Infrastructure Sandbox (Alpine)",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    
+    // Explicitly enforce markdown linting and grammatical policies globally
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "DavidAnson.vscode-markdownlint",
+                "streetsidesoftware.code-spell-checker"
+            ]
+        }
+    }
+}
